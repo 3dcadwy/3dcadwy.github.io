@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://https://3dcadwy.github.io/</id>
+    <title></title>
+    <updated>2020-09-19T12:05:05.704Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://https://3dcadwy.github.io/"/>
+    <link rel="self" href="https://https://3dcadwy.github.io/atom.xml"/>
+    <logo>https://https://3dcadwy.github.io/images/avatar.png</logo>
+    <icon>https://https://3dcadwy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[Autodesk Inventor ]]></title>
+        <id>https://https://3dcadwy.github.io/post/autodesk-inventor/</id>
+        <link href="https://https://3dcadwy.github.io/post/autodesk-inventor/">
+        </link>
+        <updated>2020-09-19T12:03:28.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://gitee.com/teaz/wangye/raw/master/KJJ.xml">快捷键</a></p>
+]]></content>
+    </entry>
+</feed>
