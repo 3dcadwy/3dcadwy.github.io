@@ -2,13 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3dcadwy.github.io</id>
     <title></title>
-    <updated>2020-10-06T02:39:53.304Z</updated>
+    <updated>2020-10-06T03:01:16.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3dcadwy.github.io"/>
     <link rel="self" href="https://3dcadwy.github.io/atom.xml"/>
     <logo>https://3dcadwy.github.io/images/avatar.png</logo>
     <icon>https://3dcadwy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[Windows 7集成IE11（离线安装包、补丁）]]></title>
+        <id>https://3dcadwy.github.io/post/windows-7-ji-cheng-ie11chi-xian-an-zhuang-bao-bu-ding/</id>
+        <link href="https://3dcadwy.github.io/post/windows-7-ji-cheng-ie11chi-xian-an-zhuang-bao-bu-ding/">
+        </link>
+        <updated>2020-10-06T02:47:15.000Z</updated>
+        <content type="html"><![CDATA[<p>当Win7系统需要集成IE11时，我们需要提前打入6个补丁</p>
+<blockquote>
+<p>KB2731771、KB2786081、KB2834140、KB2670838、KB2729094、<strong>KB2533623</strong></p>
+</blockquote>
+<p>*这六个补丁是IE11安装必须要的补丁，安装补丁过程可能有安装失败，比如出现“此补丁不适合您的计算机”<br>
+解决这个问题用下面方法跳过计算机检测，直接安装<br>
+例如<strong>KB2533623</strong>补丁安装不成功，我们将KB2533623.msu补丁放在“C:\update”下<br>
+打开左下角“开始菜单”，在搜索框中输入“cmd”，在程序“cmd.exe”鼠标右键“以管理员身份运行”<br>
+首先输入指令：<br>
+<code>expand –F:* C:\update\Windows6.1-KB2533623-x64.msu C:\update\</code><br>
+<img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9vc2NpbWcub3NjaGluYS5uZXQvb3NjbmV0L3VwLWRjM2U5NGE0YTk3NDIzMWNlZDhlZDM4ZmM0YTJkNDVmOTE1LnBuZw?x-oss-process=image/format,png" alt="1" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inventor 题库]]></title>
         <id>https://3dcadwy.github.io/post/ti-ku/</id>
