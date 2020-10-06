@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3dcadwy.github.io</id>
     <title></title>
-    <updated>2020-10-06T02:27:52.112Z</updated>
+    <updated>2020-10-06T02:30:35.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3dcadwy.github.io"/>
     <link rel="self" href="https://3dcadwy.github.io/atom.xml"/>
@@ -10,7 +10,7 @@
     <icon>https://3dcadwy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
     <entry>
-        <title type="html"><![CDATA[题库]]></title>
+        <title type="html"><![CDATA[Inventor 题库]]></title>
         <id>https://3dcadwy.github.io/post/ti-ku/</id>
         <link href="https://3dcadwy.github.io/post/ti-ku/">
         </link>
