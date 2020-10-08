@@ -2,13 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3dcadwy.github.io</id>
     <title></title>
-    <updated>2020-10-06T06:57:45.444Z</updated>
+    <updated>2020-10-08T06:51:35.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3dcadwy.github.io"/>
     <link rel="self" href="https://3dcadwy.github.io/atom.xml"/>
+    <subtitle>Get indifferent, lose calm</subtitle>
     <logo>https://3dcadwy.github.io/images/avatar.png</logo>
     <icon>https://3dcadwy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[Π]]></title>
+        <id>https://3dcadwy.github.io/post/p/</id>
+        <link href="https://3dcadwy.github.io/post/p/">
+        </link>
+        <updated>2020-10-08T03:18:10.000Z</updated>
+        <content type="html"><![CDATA[<p>http://pai.babihu.com/pi/10000000000000.html</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3d打印切片软件]]></title>
         <id>https://3dcadwy.github.io/post/3d-da-yin-qie-pian-ruan-jian/</id>
